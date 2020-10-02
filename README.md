@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+Welcome to my Github!  
+Emmm,I'm sorry for my bad English.So let's speak Chinese!
+欢迎来到我的Github。（或许你还想看看我的[博客](https://chhdao.github.io)）  
 
-<!--
-**chhdao/chhdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+那么让我做个简短的自我介绍吧：  
++ C++/Java 技能
++ Web开发入门  
++ Windows/Linux开发入门
++ P社玩家  
++ 学生  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+如果有需要，你可以发邮件给我:sudo.free@qq.com  
+最后，感谢你😄
