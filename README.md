@@ -21,6 +21,9 @@ Emmm,I'm sorry for my bad English.So let's speak Chinese!
 
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 如果有需要，你可以发邮件给我:sudo.free@qq.com  
