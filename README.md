@@ -22,7 +22,7 @@ Emmm,I'm sorry for my bad English.So let's speak Chinese!
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   1 hr 23 mins    █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
