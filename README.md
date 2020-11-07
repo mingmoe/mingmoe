@@ -22,7 +22,8 @@ Emmm,I'm sorry for my bad English.So let's speak Chinese!
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Java   1 hr 23 mins    █████████████████████████   99.99 % 
+Java   2 hrs 5 mins    ███████████████████████░░   92.56 % 
+XML    10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 <!--END_SECTION:waka-->
 
