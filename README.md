@@ -22,7 +22,9 @@ Emmm,I'm sorry for my bad English.So let's speak Chinese!
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#      1 hr 47 mins    ████████████████░░░░░░░░░   63.49 % 
+Rust    1 hr            █████████░░░░░░░░░░░░░░░░   35.70 % 
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 
