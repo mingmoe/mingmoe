@@ -6,7 +6,7 @@
 Welcome to my Github!  
 Emmm,I'm sorry for my bad English.So let's speak Chinese!  
 我是来自中国的一名初中学生😀。  
-欢迎来到我的Github。（或许你还想看看我的[博客](http://blog.kawayi.moe/)
+欢迎来到我的Github。（或许你还想看看我的[博客](https://blog.kawayi.moe/)
 <hr>
 
 <div align="right"><img alt="彩虹海盗's Github stats" align="right" src="https://github-readme-stats.vercel.app/api?username=chhdao"/></div>
