@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/chhdao?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/chhdao?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/GOSCPS?style=social)
 
 Welcome to my Github!  
 Emmm,I'm sorry for my bad English.So let's speak Chinese!  
