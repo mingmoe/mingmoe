@@ -9,7 +9,7 @@ Emmm,I'm sorry for my bad English.So let's speak Chinese!
 欢迎来到我的Github。（或许你还想看看我的[博客](https://blog.kawayi.moe/)
 <hr>
 
-<div align="right"><img alt="彩虹海盗's Github stats" align="right" src="https://github-readme-stats.vercel.app/api?username=chhdao"/></div>
+<div align="right"><img alt="彩虹海盗's Github stats" align="right" src="https://github-readme-stats.vercel.app/api?username=mingmoe"/></div>
 
 那么让我做个简短的自我介绍吧：  
 + 🛠️C++/Java 技能  
