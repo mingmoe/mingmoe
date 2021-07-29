@@ -30,6 +30,7 @@ Markdown   54 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-如果有需要，你可以发邮件给我:sudo.free@qq.com  
+如果有需要，你可以发[邮件](mailto:me@kawayi.moe)给我
+
 最后，感谢你花时间阅读😄
 
