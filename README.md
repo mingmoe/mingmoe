@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/chhdao?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mingmoe?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/GOSCPS?style=social)
 
 Welcome to my Github!  
