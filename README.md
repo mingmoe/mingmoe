@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/mingmoe?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/GOSCPS?style=for-the-badge)
+![GitHub Org's stars](https://img.shields.io/github/stars/GOSCPS?style=for-the-badge)
 
-Welcome to my Github!  
+Welcome!
 I'm a Chinese student!
 <hr>
 
