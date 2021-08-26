@@ -1,22 +1,17 @@
 ## Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/mingmoe?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/GOSCPS?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mingmoe?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/GOSCPS?style=for-the-badge)
 
 Welcome to my Github!  
-Emmm,I'm sorry for my bad English.So let's speak Chinese!  
-我是来自中国的一名初中学生😀。  
-欢迎来到我的Github。（或许你还想看看我的[博客](https://blog.kawayi.moe/)
+I'm a Chinese student!
 <hr>
 
-<div align="right"><img alt="彩虹海盗's Github stats" align="right" src="https://github-readme-stats.vercel.app/api?username=mingmoe"/></div>
+<div align="right"><img alt="MingMoe's Github stats" align="right" src="https://github-readme-stats.vercel.app/api?username=mingmoe"/></div>
 
-那么让我做个简短的自我介绍吧：  
-+ 🛠️C++/Java 技能  
-+ 🖥️Windows/Linux开发  
-+ 🎮睿智的P社玩家 +100  
-+ 🎵喜欢听音乐  
-+ ⚙️喜欢造轮子
+Brief introduction:
++ Power by ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
++ Work On ![Windows](https://img.shields.io/badge/_-Windows-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)![Linux](https://img.shields.io/badge/_-Linux-yellow?style=for-the-badge&logo=linux&logoColor=white&labelColor=yellow)![MacOs](https://img.shields.io/badge/_-MacOS-white?style=for-the-badge&logo=macos&logoColor=black&labelColor=white)![FreeBSD](https://img.shields.io/badge/_-FreeBSD-red?style=for-the-badge&logo=freebsd&logoColor=white&labelColor=red)
 <hr>
 
 #### 📊 Weekly development breakdown
@@ -27,7 +22,6 @@ C++     2 mins          ▓░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-如果有需要，你可以发[邮件](mailto:me@kawayi.moe)给我
+Or, you can send the [Email](mailto:me@kawayi.moe) to me.
 
-最后，感谢你花时间阅读😄
-
+Thanks for reading
