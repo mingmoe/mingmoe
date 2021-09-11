@@ -25,7 +25,7 @@ Markdown   6 mins          ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingmoe&repo=ubadge)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moe-org&repo=UtopiaClient)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moe-org&repo=UtopiaServer)
 
 Or, you can send the [Email](mailto:me@kawayi.moe) to me.
