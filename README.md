@@ -28,8 +28,7 @@ Java     1 hr 9 mins     ██░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moe-org&repo=UtopiaClient)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moe-org&repo=UtopiaServer)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moe-org&repo=utopia)
 
 Or, you can send the [Email](mailto:me@kawayi.moe) to me.
 
