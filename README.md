@@ -20,8 +20,7 @@ Brief introduction:
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-C++     1 hr 58 mins    ████████████████████░░░░░   79.85 % 
-CMake   29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
