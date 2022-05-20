@@ -21,7 +21,10 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+INI        17 mins         ███████████████▓░░░░░░░░░   62.79 %
+C++        5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Markdown   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+CMake      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
