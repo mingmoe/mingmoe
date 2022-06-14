@@ -21,10 +21,10 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-C#           3 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.58 %
-PowerShell   2 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Markdown     50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Other        33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+C#           3 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.77 %
+PowerShell   2 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+Markdown     52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Other        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
