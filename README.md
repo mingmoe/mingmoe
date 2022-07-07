@@ -21,8 +21,9 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs 57 mins  ██████████████▓░░░░░░░░░░   59.20 %
-Other            1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Java             8 hrs 56 mins   ███████████░░░░░░░░░░░░░░   44.10 %
+PowerShell       2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Other            2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
 ```
 
 <!--END_SECTION:waka-->
