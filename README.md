@@ -21,10 +21,9 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-C#           4 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
-Java         2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-PowerShell   2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-Other        2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+C#           5 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   37.49 %
+PowerShell   2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Other        2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
 ```
 
 <!--END_SECTION:waka-->
