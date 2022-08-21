@@ -21,9 +21,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-C++     1 hr 5 mins     ██████████████████████▓░░   90.56 %
-CMake   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
