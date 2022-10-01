@@ -21,7 +21,8 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java     17 mins         ███████████████████████▓░   94.78 %
+Groovy   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
