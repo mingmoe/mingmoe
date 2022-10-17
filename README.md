@@ -21,9 +21,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-C#      8 mins          █████████████░░░░░░░░░░░░   51.37 %
-Java    4 mins          ███████░░░░░░░░░░░░░░░░░░   28.33 %
-Other   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
