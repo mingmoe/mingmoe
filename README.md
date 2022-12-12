@@ -21,7 +21,9 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-Java   10 mins         █████████████████████████   100.00 %
+Java     18 mins         ███████████████████████▓░   94.24 %
+Gradle   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
