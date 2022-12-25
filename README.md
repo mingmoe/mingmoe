@@ -21,7 +21,10 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#      4 hrs 28 mins   ██████████████▒░░░░░░░░░░   56.74 %
+C++     2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+CMake   1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Other   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
