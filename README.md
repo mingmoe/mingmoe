@@ -21,8 +21,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-XAML   9 mins          ████████████████▓░░░░░░░░   66.08 %
-C#     4 mins          ████████▒░░░░░░░░░░░░░░░░   33.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
