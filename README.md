@@ -21,7 +21,9 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```text
-C#   1 hr 11 mins    █████████████████████████   100.00 %
+C#         1 hr 40 mins    ███████████████████████▓░   94.52 %
+Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
