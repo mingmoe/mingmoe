@@ -21,7 +21,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   3 hrs 47 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
