@@ -21,9 +21,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-Java     2 hrs 24 mins   ███████████████████▓░░░░░   79.01 %
-Kotlin   26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Python   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Java         2 hrs 9 mins    ██████████████████████▓░░   91.17 %
+Kotlin       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
