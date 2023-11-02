@@ -8,6 +8,8 @@
 Welcome!
 I'm a Chinese student!
 
+I'm preparing for Chinese university entrance examation now.
+
 <hr>
 
 <div align="right"><img alt="MingMoe's Github stats" align="right" src="https://github-readme-stats.vercel.app/api?username=mingmoe"/></div>
