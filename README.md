@@ -23,11 +23,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-C#           1 hr 42 mins    ███████████████████░░░░░░   75.53 %
-XML          13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Binary       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-TOML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
