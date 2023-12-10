@@ -23,7 +23,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake        31 mins         █████████████████████░░░░   84.05 %
+C            2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+C#           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Git Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
