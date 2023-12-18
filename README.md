@@ -23,9 +23,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-C#         3 mins          █████████████████████████   99.93 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
