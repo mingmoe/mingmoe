@@ -23,7 +23,10 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       1 hr 22 mins    ███████████████████████▒░   93.25 %
+XML      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Binary   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
