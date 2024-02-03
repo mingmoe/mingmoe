@@ -23,9 +23,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-CMake      23 mins         ████████████████████░░░░░   79.75 %
-C++        5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Modula-2   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
