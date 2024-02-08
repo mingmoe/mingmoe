@@ -23,7 +23,8 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       30 mins         █████████████████████████   99.35 %
+Csproj   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
