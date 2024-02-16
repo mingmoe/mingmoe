@@ -23,11 +23,7 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-C#         3 hrs 44 mins   ████████████████████████░   95.79 %
-Csproj     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-XML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
