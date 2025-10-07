@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-SCSS         3 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
-TypeScript   3 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-Python       3 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-YAML         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+HTML         3 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+SCSS         3 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+TypeScript   2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Python       1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Markdown     1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 ```
 
 <!--END_SECTION:waka-->
