@@ -20,11 +20,11 @@ Brief introduction:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 8 mins     ███████████████████▒░░░░░   77.84 %
-Rust         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-TSConfig     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+C#                                 1 hr 11 mins    █████████████▓░░░░░░░░░░░   55.01 %
+XML                                31 mins         ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+Python                             14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Microsoft Visual Studio Solution   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Git Config                         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
